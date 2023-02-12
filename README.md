@@ -1,2 +1,2 @@
 # GAN
-Generator network v.s Discriminator network
+Generator generates fake images, and then discriminator discriminates them.
